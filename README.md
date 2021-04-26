@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Croused
+- 👀 I’m interested in everything programming.  Currently focused on the .Net framework
